@@ -1,2 +1,1 @@
-# Agenda de contacte
-Proiect pentru gestionarea contactelor.
+# Titlu Varianta A
